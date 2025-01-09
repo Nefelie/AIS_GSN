@@ -1,6 +1,8 @@
 # AIS Global Shipping Network
 This project focuses on enhancing maritime situational awareness by building a Global Shipping Network (GSN) using AIS data. 
 
+<img src="https://github.com/user-attachments/assets/56a9fb18-200c-4bfd-9bf7-d15895921917" width="500"/>
+
 Objectives:
 - extract vessel routes and destinations from AIS data
 - represent shipping lanes and their junctions in a global network
